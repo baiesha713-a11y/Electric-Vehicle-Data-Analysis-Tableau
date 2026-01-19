@@ -68,7 +68,7 @@ State-wise registration
 
 CAFV eligibility
 
-📁 File: data/electric_vehicle_data.csv
+📁 File: #"C:\Users\b aiesha\Downloads\Electric_Vehicle_Population_Data (1).csv"
 
 🖼 Dashboard Preview
 
@@ -94,6 +94,7 @@ Majority of vehicles fall under CAFV eligibility or unknown category
 
 🔗 Author
 
-Aisha Naaz
+Aisha
+
 Aspiring Data Analyst | Tableau | Power BI | Python
-📌 GitHub Portfolio: (add your profile link)
+📌 linkedin profile: (https://www.linkedin.com/posts/b-aiesha-316122257_electric-vehicle-data-analysis-dashboard-activity-7404053184660369408-IC6P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8zLUIBIZYpdOXLmbTRA2l4dfoFqQVSXcU)
