@@ -75,7 +75,7 @@ CAFV eligibility
 🎥 Project Demo Video
 
 👉 Watch the dashboard walkthrough here:
-PASTE YOUR LINK HERE (LinkedIn / YouTube)
+https://github.com/baiesha713-a11y/Electric-Vehicle-Data-Analysis-Tableau/blob/main/ev%20vehicle%20video%20clip.mp4
 
 📁 Tableau File
 
