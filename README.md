@@ -80,7 +80,7 @@ https://github.com/baiesha713-a11y/Electric-Vehicle-Data-Analysis-Tableau/blob/m
 📁 Tableau File
 
 You can explore or modify the dashboard using the Tableau packaged file:
-📄 https://github.com/baiesha713-a11y/Electric-Vehicle-Data-Analysis-Tableau/blob/main/electric%20vehicle%20tableau%20dashboard.twb
+📄 https://drive.google.com/file/d/1qZy8tcqKDrwj3J6ycT1VBOqoZUkYXe_F/view?usp=drive_link
 
 📌 Insights & Learnings
 
